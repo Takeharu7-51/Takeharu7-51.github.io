@@ -40,4 +40,4 @@
  - [Github](https://github.com/Takeharu7-51/N-aquarium)
  
  # Contact
- take7spring@gmail.com
+ - take7spring@gmail.com
