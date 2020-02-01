@@ -14,11 +14,6 @@
 - Engine,Frameworks (Node.js, Express・Webpack)
 - Tool,MiddleWare (Git, PostgreSQL)
 - Illustrator, Photoshop
-
- # History
- - 2019Webアプリケーションコンテスト夏健闘賞
- - そろばん初段
- - 英検準二級
  
 # Works
 作った作品
@@ -41,3 +36,8 @@
  
 # Contact
 take7spring@gmail.com
+
+# History
+ - 2019Webアプリケーションコンテスト夏健闘賞
+ - そろばん初段
+ - 英検準二級
