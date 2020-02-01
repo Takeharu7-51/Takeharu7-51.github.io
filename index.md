@@ -39,5 +39,5 @@
  - [リンク](https://takeharu7-51.github.io/N-aquarium/)
  - [Github](https://github.com/Takeharu7-51/N-aquarium)
  
- # Contact
- - take7spring@gmail.com
+# Contact
+take7spring@gmail.com
