@@ -1,4 +1,4 @@
-<img src="DSC_0724.JPG" width="300">
+<img src="DSC_0724.JPG" width="200">
 
 # About
 プログラミングを勉強しています。  
