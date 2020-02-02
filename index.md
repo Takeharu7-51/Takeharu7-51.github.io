@@ -36,6 +36,10 @@
  - [リンク](https://takeharu7-51.github.io/N-aquarium/)
  - [Github](https://github.com/Takeharu7-51/N-aquarium)
  
+ おみくじ
+ - [リンク](https://takeharu7-51.github.io/Omikuji/)
+ - [Github](https://github.com/Takeharu7-51/Omikuji)
+ 
  My Circle
  <iframe src="https://www.openprocessing.org/sketch/833453/embed/" width="400" height="300"></iframe>
  
