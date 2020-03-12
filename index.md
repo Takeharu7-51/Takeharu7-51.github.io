@@ -30,8 +30,7 @@
  
  秘密の匿名掲示板
  - [リンク](https://floating-gorge-31481.herokuapp.com/posts)
- - ユーザー： guest1　　パスワード： 8opaji#Ru2pI
- - ユーザー： guest2　　パスワード： sTiw5lRltRak
+ - ユーザー： guest1　　パスワード： 8opaji#Ru2pI　　　　 ユーザー： guest2　　パスワード： sTiw5lRltRak
  
  Englishでバトル！（2019Webアプリケーションコンテスト夏応募作品-健闘賞）
  - [リンク](https://takeharu7.github.io/2019summerWebPagecontest/2019Webアプリコンテスト/index.html)
