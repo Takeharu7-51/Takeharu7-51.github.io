@@ -24,6 +24,9 @@
  - [リンク](https://agile-island-49568.herokuapp.com/posts)
  - [Github](https://github.com/Takeharu7-51/society-vocabulary-book)
  
+ 予定調整くん
+  - [リンク](https://still-escarpment-93966.herokuapp.com/)
+ 
  あなたのいいところ診断
  - [リンク](https://takeharu7-51.github.io/assessment/assessment.html)
  - [Github](https://github.com/Takeharu7-51/assessment)
