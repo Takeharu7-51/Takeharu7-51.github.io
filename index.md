@@ -51,6 +51,10 @@
  - [リンク](https://takeharu7-51.github.io/Omikuji/)
  - [Github](https://github.com/Takeharu7-51/Omikuji)
  
+ 自作の年賀状の作品
+- <img src="2019年賀状-1.pdf" width="700">
+- <img src="2019年賀状-2.pdf" width="300">
+
  My Circle
  <iframe src="https://www.openprocessing.org/sketch/833453/embed/" width="400" height="300"></iframe>
  
