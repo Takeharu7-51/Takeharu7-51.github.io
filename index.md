@@ -1,5 +1,4 @@
 <img src="DSC_0724.JPG" width="200">
-<img src="img/nengajou1.pdf" width="700">
 
 # About
 プログラミングを勉強しています。  
