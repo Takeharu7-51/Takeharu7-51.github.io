@@ -52,8 +52,8 @@
  - [Github](https://github.com/Takeharu7-51/Omikuji)
  
  自作の年賀状の作品
-- <img src="img/nengajou-1.pdf" width="700">
-- <img src="img/nengajou-2.pdf" width="300">
+- <img src="./img/nengajou-1.pdf" width="700">
+- <img src="./img/nengajou-2.pdf" width="300">
 
  My Circle
  <iframe src="https://www.openprocessing.org/sketch/833453/embed/" width="400" height="300"></iframe>
