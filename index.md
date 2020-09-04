@@ -1,5 +1,4 @@
 <img src="DSC_0724.JPG" width="200">
-<img src="https://github.com/Takeharu7-51/Takeharu7-51.github.io/blob/master/img/nengajou2.pdf" width="300">
 
 # About
 プログラミングを勉強しています。  
