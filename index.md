@@ -10,12 +10,18 @@
 - 東京都
 - プログラミング
 
+# History
+ - 2019Webアプリケーションコンテスト夏健闘賞
+ - 2019Webアプリケーションコンテスト冬健闘賞
+ - そろばん初段
+ - 英検準二級
+
 # Skills
 - OS (Mac, Ubuntu, Windows)
 - Languages (HTML, CSS, JavaScript)
 - Engine,Frameworks (Node.js, Express・Webpack)
 - Tool,MiddleWare (Git, PostgreSQL)
-- Illustrator, Photoshop
+- Illustrator, Photoshop, Premiere Pro
  
 # Works
 作った作品
@@ -64,9 +70,3 @@
  
 # Contact
 take7spring@gmail.com
-
-# History
- - 2019Webアプリケーションコンテスト夏健闘賞
- - 2019Webアプリケーションコンテスト冬健闘賞
- - そろばん初段
- - 英検準二級
