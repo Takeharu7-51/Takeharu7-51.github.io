@@ -29,6 +29,7 @@
  しゃべるスケジュール管理アプリ
  - [リンク](https://Takeharu7-51.github.io/schedule-app/index.html)
  - [Github](https://github.com/Takeharu7-51/schedule-app)
+ - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/schedule-app/blob/master/teachers%20feedback.md)
  
  みんなで作る社会科単語帳（2019Webアプリケーションコンテスト冬応募作品-健闘賞）
  - [リンク](https://agile-island-49568.herokuapp.com/posts)
