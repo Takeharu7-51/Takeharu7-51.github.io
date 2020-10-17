@@ -34,7 +34,7 @@
  みんなで作る社会科単語帳（2019Webアプリケーションコンテスト冬応募作品-健闘賞）
  - [リンク](https://agile-island-49568.herokuapp.com/posts)
  - [Github](https://github.com/Takeharu7-51/society-vocabulary-book)
- - [講師の方からいただいたフィードバック](https://github.com/Takeharu7-51/society-vocabulary-book/blob/master/teachers%20feedback.md)
+ - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/society-vocabulary-book/blob/master/teachers%20feedback.md)
  
  予定調整くん
   - [リンク](https://still-escarpment-93966.herokuapp.com/)
