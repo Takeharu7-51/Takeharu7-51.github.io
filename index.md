@@ -27,40 +27,40 @@
 作った作品
 
  しゃべるスケジュール管理アプリ
- - [リンク](https://Takeharu7-51.github.io/schedule-app/index.html)
+ - [作品のリンク](https://Takeharu7-51.github.io/schedule-app/index.html)
  - [Github](https://github.com/Takeharu7-51/schedule-app)
  - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/schedule-app/blob/master/teachers%20feedback.md)
  
  みんなで作る社会科単語帳（2019Webアプリケーションコンテスト冬応募作品-健闘賞）
- - [リンク](https://agile-island-49568.herokuapp.com/posts)
+ - [作品のリンク](https://agile-island-49568.herokuapp.com/posts)
  - [Github](https://github.com/Takeharu7-51/society-vocabulary-book)
  - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/society-vocabulary-book/blob/master/teachers%20feedback.md)
  
  予定調整くん
-  - [リンク](https://still-escarpment-93966.herokuapp.com/)
+  - [作品のリンク](https://still-escarpment-93966.herokuapp.com/)
  
  あなたのいいところ診断
- - [リンク](https://takeharu7-51.github.io/assessment/assessment.html)
+ - [作品のリンク](https://takeharu7-51.github.io/assessment/assessment.html)
  - [Github](https://github.com/Takeharu7-51/assessment)
  
  秘密の匿名掲示板
- - [リンク](https://floating-gorge-31481.herokuapp.com/posts)
+ - [作品のリンク](https://floating-gorge-31481.herokuapp.com/posts)
  - ユーザー： guest1　　パスワード： 8opaji#Ru2pI　　　　 ユーザー： guest2　　パスワード： sTiw5lRltRak
  
  Englishアプリ
- - [リンク](https://takeharu7-51.github.io/englishApp/index.html)
+ - [作品のリンク](https://takeharu7-51.github.io/englishApp/index.html)
  - [Github](https://github.com/Takeharu7-51/englishApp)
  
  Englishでバトル！（2019Webアプリケーションコンテスト夏応募作品-健闘賞）
- - [リンク](https://takeharu7.github.io/2019summerWebPagecontest/2019Webアプリコンテスト/index.html)
+ - [作品のリンク](https://takeharu7.github.io/2019summerWebPagecontest/2019Webアプリコンテスト/index.html)
  - [Github](https://github.com/takeharu7/2019summerWebPagecontest)
  
  N水族館（デザイン）
- - [リンク](https://takeharu7-51.github.io/N-aquarium/)
+ - [作品のリンク](https://takeharu7-51.github.io/N-aquarium/)
  - [Github](https://github.com/Takeharu7-51/N-aquarium)
  
  おみくじ
- - [リンク](https://takeharu7-51.github.io/Omikuji/)
+ - [作品のリンク](https://takeharu7-51.github.io/Omikuji/)
  - [Github](https://github.com/Takeharu7-51/Omikuji)
  
  自作の年賀状の作品
