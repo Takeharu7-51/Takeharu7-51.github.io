@@ -26,7 +26,12 @@
 # Works
 作った作品
 
- しゃべるスケジュール管理アプリ
+Easyアンケート（2020Webアプリケーションコンテスト冬応募作品-健闘賞）
+ - [作品のリンク](https://ancient-reaches-07414.herokuapp.com/)
+ - [Github](https://github.com/Takeharu7-51/Easy-Questionnaire)
+ - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/Easy-Questionnaire/blob/main/teachers%20feedback.md)
+
+ しゃべるスケジュール管理アプリ（2020Webアプリケーションコンテスト夏応募作品-健闘賞）
  - [作品のリンク](https://Takeharu7-51.github.io/schedule-app/index.html)
  - [Github](https://github.com/Takeharu7-51/schedule-app)
  - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/schedule-app/blob/master/teachers%20feedback.md)
