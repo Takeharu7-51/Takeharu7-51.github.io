@@ -45,6 +45,7 @@ Easyアンケート（2020Webアプリケーションコンテスト冬応募作
  
  予定調整くん
   - [作品のリンク](https://secret-basin-65442.herokuapp.com/)
+  - [Github](https://github.com/Takeharu7-51/schedule-arranger)
  
  あなたのいいところ診断
  - [作品のリンク](https://takeharu7-51.github.io/assessment/assessment.html)
