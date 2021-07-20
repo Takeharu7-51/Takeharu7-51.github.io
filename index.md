@@ -51,8 +51,8 @@ Easyアンケート（2020Webアプリケーションコンテスト冬応募作
  - [Github](https://github.com/Takeharu7-51/assessment)
  
  秘密の匿名掲示板
- - [作品のリンク](https://floating-gorge-31481.herokuapp.com/posts)
- - ユーザー： guest1　　パスワード： 8opaji#Ru2pI　　　　 ユーザー： guest2　　パスワード： sTiw5lRltRak
+ - [作品のリンク](https://fathomless-forest-56528.herokuapp.com/posts)
+ - ユーザー： guest1　　パスワード： Tip8A7hucrAs67Jl1AHi　　　　 ユーザー： guest2　　パスワード： fRidokLjlzutIvozEcR1
  
  Englishアプリ
  - [作品のリンク](https://takeharu7-51.github.io/englishApp/index.html)
