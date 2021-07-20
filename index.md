@@ -44,7 +44,7 @@ Easyアンケート（2020Webアプリケーションコンテスト冬応募作
  - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/society-vocabulary-book/blob/master/teachers%20feedback.md)
  
  予定調整くん
-  - [作品のリンク](https://still-escarpment-93966.herokuapp.com/)
+  - [作品のリンク](https://secret-basin-65442.herokuapp.com/)
  
  あなたのいいところ診断
  - [作品のリンク](https://takeharu7-51.github.io/assessment/assessment.html)
