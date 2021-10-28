@@ -12,6 +12,7 @@
 
 # History
  - ITパスポート
+ - 2021Webアプリケーションコンテスト夏健闘賞
  - 2020Webアプリケーションコンテスト冬健闘賞
  - 2020Webアプリケーションコンテスト夏健闘賞
  - 2019Webアプリケーションコンテスト冬健闘賞
@@ -41,6 +42,7 @@ Easyアンケート（2020Webアプリケーションコンテスト冬応募作
  ぼくの単語帳
  - [作品のリンク](https://takeharu7-51.github.io/My-Vocabulary-Book/)
  - [Github](https://github.com/Takeharu7-51/My-Vocabulary-Book)
+ - [講師の方々からいただいたフィードバック](https://github.com/Takeharu7-51/My-Vocabulary-Book/blob/main/teachers%20feedback.md)
  
  みんなで作る社会科単語帳（2019Webアプリケーションコンテスト冬応募作品-健闘賞）
  - [作品のリンク](https://still-beach-18284.herokuapp.com/posts)
